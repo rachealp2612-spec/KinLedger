@@ -1,0 +1,8 @@
+{
+  "name": "FamSpend",
+  "description": "Automatically aggregate and visualize your entire family’s expenses by syncing bank and payment app transaction SMS in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
